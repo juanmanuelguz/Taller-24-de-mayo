@@ -1,0 +1,240 @@
+
+h1{
+    text-decoration: underline rgb(3, 3, 3);;
+    color: rgb(0, 0, 0);
+    margin-bottom: 20%;
+    text-align: center;
+
+}
+.section{
+    border-bottom: 5px black;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 30%;
+    height: auto;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-top: -200px;
+}
+h2{
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+    margin-bottom: 20%;
+    text-align: center;
+    background-color: rgb(95, 94, 94);
+}
+.nombre {
+    display: flex;
+    align-items: center;
+    margin-top: -20%;
+    margin-left: 30%;
+    
+  }
+  
+  .etiqueta1 {
+    margin-right: 80px;
+    font-weight: bold;
+    display: inline-block;
+  width: 250px;
+  }
+  
+  .valor1 {
+    font-style: normal;
+    text-align: left;
+    display: inline-block;
+    text-align: right;
+  }
+  .documento {
+    display: flex;
+    align-items: center;
+    margin-left: 30%;
+    
+  }
+  
+  .etiqueta2 {
+    margin-right: 80px;
+    font-weight: bold;
+    display: inline-block;
+    width: 250px;
+  }
+  
+  .valor2 {
+    font-style: normal;
+    text-align: left;
+    display: inline-block;
+    text-align: right;
+  }
+  .fecha1 {
+    display: flex;
+    align-items: center;
+    margin-left: 30%;
+    
+  }
+  
+  .etiqueta3 {
+    margin-right: 80px;
+    font-weight: bold;
+    display: inline-block;
+  width: 250px;
+  }
+  
+  .valor3 {
+    font-style: normal;
+    text-align: left;
+    display: inline-block;
+    text-align: right;
+  }
+  .fecha2 {
+    display: flex;
+    align-items: center;
+    margin-left: 30%;
+    
+  }
+  
+  .etiqueta4 {
+    margin-right: 80px;
+    font-weight: bold;
+    display: inline-block;
+  width: 250px;
+  }
+  
+  .valor4 {
+    font-style: normal;
+    text-align: left;
+    display: inline-block;
+    text-align: right;
+  }
+  .correo {
+    display: flex;
+    align-items: center;
+    margin-left: 30%;
+    
+    
+    
+  }
+  
+  .etiqueta5 {
+    margin-right: 80px;
+    font-weight: bold;
+    display: inline-block;
+  width: 250px;
+  }
+  
+  .valor5 {
+    font-style: normal;
+    display: inline-block;
+    text-align: right;
+  }
+  .celular {
+    display: flex;
+    align-items: center;
+    margin-left: 30%;
+    
+    
+    
+  }
+  
+  .etiqueta6 {
+    margin-right: 80px;
+    font-weight: bold;
+    display: inline-block;
+  width: 250px;
+  }
+  
+  .valor6 {
+    font-style: normal;
+    display: inline-block;
+    text-align: right;
+  }
+  .direccion{
+    display: flex;
+    align-items: center;
+    margin-left: 30%;
+    
+    
+    
+  }
+  
+.etiqueta7 {
+    margin-right: 80px;
+    font-weight: bold;
+    display: inline-block;
+  width: 250px;
+  }
+  
+.valor7 {
+    font-style: normal;
+    display: inline-block;
+    text-align: right;
+  }
+  h3{
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+    margin-bottom: 20%;
+    text-align: center;
+    background-color: rgb(95, 94, 94);
+}
+.primaria {
+    display: flex;
+    align-items: center;
+    margin-left: 30%;
+    margin-top: -20%;
+    
+    
+    
+  }
+  
+  .etiqueta8 {
+    margin-right: 80px;
+    font-weight: bold;
+    display: inline-block;
+  width: 250px;
+  }
+  
+  .valor8 {
+    font-style: normal;
+    display: inline-block;
+    text-align: right;
+  }
+  .secundaria{
+    display: flex;
+    align-items: center;
+    margin-left: 30%;
+    margin-top: 5%;
+    
+    
+    
+  }
+  
+.etiqueta9 {
+    margin-right: 80px;
+    font-weight: bold;
+    display: inline-block;
+  width: 250px;
+  }
+  
+.valor9 {
+    font-style: normal;
+    display: inline-block;
+    text-align: right;
+  }
+  .nombref {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -2%;
+  }
+  
+  .identificacion {
+    font-size: 18px;
+    text-align: center;
+  }
+  .imagen-grande {
+    width: 300px;
+    margin-top: 30px;
+  }
+  
+  
